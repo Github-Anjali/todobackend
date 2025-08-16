@@ -13,7 +13,7 @@ Tech Stack :
 Node.js - Runtime environment
 Express.js - Web framework
 MongoDB - Database
-Mongoose - ODM for MongoDB
+
 
 Setup and Run Instructions
 Prerequisites
